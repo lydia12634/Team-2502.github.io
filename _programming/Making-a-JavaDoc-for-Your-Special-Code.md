@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Making a JavaDoc for Your Special Code
-categories: 
----We are the programming **team**. We are called a team for a reason -- we must work together to program the robot. As such, different people take on different tasks, such as creating automatic shifting, making an autonomous, making the shooter subsystem, etc. 
+categories:
+---
+We are the programming **team**. We are called a team for a reason -- we must work together to program the robot. As such, different people take on different tasks, such as creating automatic shifting, making an autonomous, making the shooter subsystem, etc. 
 
-In the event that another person must use your subsystem, command, or whatever else you have created, they must understand how it works. Normally, they would ask you how your thing works. However, it is inconvenient and time-consuming to interact with another person. 
+In the event that another person must use your subsystem, command, or whatever else you have created, they must understand how it works. Normally, they would ask you how your thing works. However, it is inconvenient and time-consuming to interact with another person.
 
 In this wiki page, I present 5 easy ways to make it clear what your thing does, focusing on JavaDoc related items.
 
 # JavaDoc
 
-The JavaDoc is a useful tool that can explain a method when you mouse over it in Eclipse. To do so in IntelliJ, the setting is found under `Editor -> General -> Other -> Show quick documentation on mouse move`. Alternatively, look at your keymap and remember the key for showing documentation. 
+The JavaDoc is a useful tool that can explain a method when you mouse over it in Eclipse. To do so in IntelliJ, the setting is found under `Editor -> General -> Other -> Show quick documentation on mouse move`. Alternatively, look at your keymap and remember the key for showing documentation.
 
 ## Adding a JavaDoc to your class methods
 
@@ -61,7 +62,7 @@ and press enter. In Eclipse and IntelliJ, this automatically fills out the comme
         /**
          *
          * @param microwaveName
-         * @return 
+         * @return
          */
         public boolean isMicrowaveOn(String microwaveName)
         {

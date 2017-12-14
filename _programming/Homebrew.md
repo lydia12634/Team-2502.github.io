@@ -2,7 +2,8 @@
 layout: post
 title: Homebrew
 categories: advanced
----# What Is Homebrew?
+---
+# What Is Homebrew?
 Homebrew is
 
 * The missing package manager for macOS it installs the stuff you need that Apple didn’t.

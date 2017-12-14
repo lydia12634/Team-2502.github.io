@@ -1,8 +1,9 @@
 ---
 layout: post
 title: GitHub Instructions
-categories: 
----# Branching
+categories:
+---
+# Branching
 
 Unlike 2017, you are *not* allowed to have a personal branch. Any such branch will immediately be deleted. There are only 3 types of branches:
 
@@ -38,17 +39,15 @@ These are branches for large changes/new features. These generally include
 
 * New files directly under `com.team2502.robot2018` such as `AutoSwitcher`
 
-You can merge any branch into these branches, and you can merge these branches into any other branch, *barring* `master`. 
+You can merge any branch into these branches, and you can merge these branches into any other branch, *barring* `master`.
 
 
 # Deploying
 
-At competition or other event where the robot is being driven, 
+At competition or other event where the robot is being driven,
 
 * Initially, *you must deploy from* `master` *branch. It is the responsibility of all the programmers to ensure that master has the latest tested code*
 
 * If code changes are required at an event, follow this plan
 
 ![Flowchart](https://i.imgur.com/TU2piBi.png)
-
-

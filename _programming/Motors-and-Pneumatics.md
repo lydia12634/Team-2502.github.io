@@ -2,7 +2,8 @@
 layout: post
 title: Motors and Pneumatics
 categories: wpilib
----# Talons
+---
+# Talons
 First, import `com.ctre.CANTalon`
 
 To create a talon:
@@ -33,7 +34,7 @@ To move a pneumatic
 
 `balloon.set(boolean)`
 
-`boolean` indicates whether the pneumatic is activated or not. 
+`boolean` indicates whether the pneumatic is activated or not.
 
 
 For more details, look at the Solenoid javadoc at [this URL](http://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/Solenoid.html).

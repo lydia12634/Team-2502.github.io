@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Building and Deploying Code
-categories: deploy 
----# Building Code
+categories: deploy
+---
+# Building Code
 
 "Building and deploying" is the process where we programmers download code to the robot from our computers. Typically, "*building*" code implies that you are compiling it __making sure there are no syntactical errors__, while "*deploying*" code implies that you are downloading it to a robot.
 
@@ -13,7 +14,7 @@ categories: deploy
 
 If you are *just building* your code to see if it compiles, run
 
-`./gradlew build` 
+`./gradlew build`
 
 in the Terminal while inside the directory of the robot code for Gradle build, or select the "compile" target for the standard Ant build
 
@@ -43,7 +44,7 @@ Try again
 
 If it gives you errors pointing to files that are definitely ours, then there is a bug in our code.
 
-If it doesn't try 
+If it doesn't try
 
 * Powercycling the robot
 

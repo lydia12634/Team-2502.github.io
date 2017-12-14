@@ -2,7 +2,8 @@
 layout: post
 title: SmartDashboard
 categories: wpilib
----# SmartDashboard
+---
+# SmartDashboard
 
 SmartDashboard shows us variables in our code. To put something onto SmartDashboard, add
 

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Formatting
-categories: 
----# Formatting
+categories:
+---
+# Formatting
 Formatting is an important thing to do to keep all code organized. The following formatting is what will be used for this year's robot.  
 
 
@@ -72,11 +73,11 @@ Avoid using `static` imports. It causes confusion when trying to read code and t
 ## Other
 If a method overrides a super method, annotate it with `@Override`.  
 In general we will use pre-increment and pre-decrement. e.g. `++i` and `--i` instead of `i--` and `i++`, there are some special cases where you want to use post-increment and post-decrement.  
-Whenever possible, ensure type safety. 
+Whenever possible, ensure type safety.
 We use methods, not functions. Get the name right.
 
 __This part is now Deprecated__  
-Whenever you do not want a variable or method to return `null`, annotate it with ~~`@org.jetbrains.annotations.NotNull`~~ `@javax.annotation.Nonnull` from `com.google.code.findbugs:jsr305`. When a variable or method can be null, you can annotate it with ~~`@org.jetbrains.annotations.Nullable`~~ `@javax.annotation.Nullable` from `com.google.code.findbugs:jsr305`. 
+Whenever you do not want a variable or method to return `null`, annotate it with ~~`@org.jetbrains.annotations.NotNull`~~ `@javax.annotation.Nonnull` from `com.google.code.findbugs:jsr305`. When a variable or method can be null, you can annotate it with ~~`@org.jetbrains.annotations.Nullable`~~ `@javax.annotation.Nullable` from `com.google.code.findbugs:jsr305`.
 
 ***
 _Formatting standards are subject to change_

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Initial Workspace Setup"
-date:   2017-12-14 7:42:28 -0600
-categories: programming setup
+categories: setup
 ---
 
 # Workspace Setup

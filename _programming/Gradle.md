@@ -2,7 +2,8 @@
 layout: post
 title: Gradle
 categories: deploy
----# Gradle
+---
+# Gradle
 [Gradle](http://gradle.org/) is a build assistant which has the ability to streamline the build process by running multiple tasks on build (e.g. Compiling the Code, Creating JavaDoc, Pushing Jars to Download Page. All in one command) as well as interfacing with maven to easily download dependencies.
 
 We use a custom version of gradle called GradleRIO, it can be acquired [here](https://github.com/Open-RIO/GradleRIO/releases).
@@ -26,7 +27,7 @@ To access a directory through the command line on Windows open directory in expl
 
 ### Opening command line on Mac
 
-Run `/Applications/Utilities/Terminal.app` and `cd` into the directory. 
+Run `/Applications/Utilities/Terminal.app` and `cd` into the directory.
 
 ### Opening command line on Linux
 

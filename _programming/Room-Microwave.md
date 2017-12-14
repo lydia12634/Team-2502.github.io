@@ -2,7 +2,8 @@
 layout: post
 title: Room Microwave
 categories: meme
----# What is a Microwave
+---
+# What is a Microwave
 
 A microwave is a metal box that sends microwave radiation through itself. The microwaves will get absorbed by any water molecules inside the box and turned into thermal energy. This effect makes it possible to heat objects made for human consumption in a manner that makes them safer to eat by killing microorganisms or more desirable to eat by altering the texture
 
@@ -17,7 +18,7 @@ Because it is dangerous to operate a microwave without anything inside to absorb
 
 ## Step 2: Insert
 
-Most microwaves have a mechanism to temporarily open the box so that material may be placed inside. Since this mechanism may vary from microwave to microwave, please consult the manufacturer on how to open your particular microwave. The 2 most common methods of opening a microwave are 
+Most microwaves have a mechanism to temporarily open the box so that material may be placed inside. Since this mechanism may vary from microwave to microwave, please consult the manufacturer on how to open your particular microwave. The 2 most common methods of opening a microwave are
 
 1. A button near the corner that opens a door when pushed
 
@@ -29,11 +30,11 @@ After activating the mechanism, you may insert the object.
 
 ## Step 3: Activate
 
-Many microwaves have another mechanism that allows the user to specify a certain amount of time. Since this mechanism may vary from microwave to microwave, please consult your microwave manufacturer on how to input time into the microwave. The most common method of inputting time into a microwave is a keypad of Hindu-Arabic numerals located near the box-opening mechanism. Once you have specified the amount of time that you would like to microwave the object, close the box and activate the microwave. This is most often done by pressing a start button. Sometimes, a microwave will automatically activate if a time has been specified after the door has been closed. Do not worry, this is not a problem with your microwave. Microwave manufacturers implemented it so that lazy Americans would not have to press as many buttons when operating their microwave. 
+Many microwaves have another mechanism that allows the user to specify a certain amount of time. Since this mechanism may vary from microwave to microwave, please consult your microwave manufacturer on how to input time into the microwave. The most common method of inputting time into a microwave is a keypad of Hindu-Arabic numerals located near the box-opening mechanism. Once you have specified the amount of time that you would like to microwave the object, close the box and activate the microwave. This is most often done by pressing a start button. Sometimes, a microwave will automatically activate if a time has been specified after the door has been closed. Do not worry, this is not a problem with your microwave. Microwave manufacturers implemented it so that lazy Americans would not have to press as many buttons when operating their microwave.
 
 ## Step 4: Wait
 
-Your microwave is now operating autonomously. You have the option of staring at the opening mechanism of the box or being productive and moving your bodily appendages to complete tasks. The microwave will make a loud, undesirable, ear-piercing noise when the time has elapsed. WARNING THE MICROWAVE IN THE ROOM TENDS TO DEACCELERATE THE SPACE TIME CONTINUUM IN ONLY IN SPACE THE MICROWAVE MACHINE OPPCUPIES. YOUV'E BEEN WARNED. WATCH CAREFULLY. 
+Your microwave is now operating autonomously. You have the option of staring at the opening mechanism of the box or being productive and moving your bodily appendages to complete tasks. The microwave will make a loud, undesirable, ear-piercing noise when the time has elapsed. WARNING THE MICROWAVE IN THE ROOM TENDS TO DEACCELERATE THE SPACE TIME CONTINUUM IN ONLY IN SPACE THE MICROWAVE MACHINE OPPCUPIES. YOUV'E BEEN WARNED. WATCH CAREFULLY.
 
 
 ## Step 5: Retrieve
@@ -46,7 +47,7 @@ Most items are used after they are microwaved. Spherical and oblong plant seeds 
 
 # A Very Special Note About "Microwave Pancakes"
 
-A very special type of disease causes the desire to manufacture and consume the abominations often referred to as "microwave pancakes". The only way to prevent attaining this disease is to consume food at regular intervals. This disease is not contagious, but will afflict groups of people if they have been together for a long time. This disease is called "hunger". If someone attains "hunger", they are called "hungry", not to be confused with a person from the European country of Hungary, called "Hungarian"\(not to be confused with Donald Trump, otherwise known as a "humanitarian"\(not to be confused with a person who eats animals for money, a "veterinarian")). To cure the disease known as "hunger", victims must consume food such that they may attain nutrients from them. However, while the build room has many materials such as "PVC", "2-part Epoxy", "Polycarb", and "Tap fluid", it is currently unknown if these materials are safe for human consumption. Smart build children(referred to "buildren") understand that the safety of these materials is questionable at best, and will eat materials guaranteed for human consumption. The most readily available material is pancake mix. 
+A very special type of disease causes the desire to manufacture and consume the abominations often referred to as "microwave pancakes". The only way to prevent attaining this disease is to consume food at regular intervals. This disease is not contagious, but will afflict groups of people if they have been together for a long time. This disease is called "hunger". If someone attains "hunger", they are called "hungry", not to be confused with a person from the European country of Hungary, called "Hungarian"\(not to be confused with Donald Trump, otherwise known as a "humanitarian"\(not to be confused with a person who eats animals for money, a "veterinarian")). To cure the disease known as "hunger", victims must consume food such that they may attain nutrients from them. However, while the build room has many materials such as "PVC", "2-part Epoxy", "Polycarb", and "Tap fluid", it is currently unknown if these materials are safe for human consumption. Smart build children(referred to "buildren") understand that the safety of these materials is questionable at best, and will eat materials guaranteed for human consumption. The most readily available material is pancake mix.
 
 ## Making microwave pancakes
 

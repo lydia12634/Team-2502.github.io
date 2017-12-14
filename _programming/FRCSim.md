@@ -1,5 +1,6 @@
 ---
 layout: post
 title: FRCSim
-categories: 
----# Installing FRCSim for OSX
+categories:
+---
+# Installing FRCSim for OSX

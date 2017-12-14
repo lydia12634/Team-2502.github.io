@@ -2,7 +2,8 @@
 layout: post
 title: Deploying to a roboRIO with a password
 categories: deploy
----A password has been set on the RoboRIO. This makes it so that, with the default build configuration, it is impossible to deploy. However, this is an easy problem to fix for the time being.
+---
+A password has been set on the RoboRIO. This makes it so that, with the default build configuration, it is impossible to deploy. However, this is an easy problem to fix for the time being.
 
 ## Step 1: Open build.properties
 The first step is to edit build.properties. This build.properties is found in `$HOME/wpilib/java/current/ant/build.properties`, where `$HOME` is your home folder.  Open up the file in a text editor.
