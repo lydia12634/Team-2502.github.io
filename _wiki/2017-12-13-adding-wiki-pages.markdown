@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "How to add wiki pages"
-date:   2017-12-13 21:39:43 -0600
 categories: meta
 ---
 
@@ -11,22 +10,23 @@ categories: meta
 
 1. Clone the [repository](https://github.com/Team-2502/Team-2502.github.io) for this wiki
 
-1. Navigate to the  `_posts` directory and make a new file that follows the convention `YYYY-MM-DD-name-of-post.markdown`
+1. Think about what kind of wiki page you will make. If it's a wiki page related to build, navigate to the `_build` directory. If it's related to maintaining this wiki, navigate to the `_wiki` folder. If it's related to programming, navigate to the `_programming` directory. These directories are called *collections*. The placement of your page will impact which index your page shows up in.
 
-1. Now, you need to add some YAML front matter. YAML front matter goes at the beginning of your file and looks like 
+1. Make a new file. Ensure the name is all lowercase, has no spaces, and briefly describes the purpose of the page.
+
+1. Now, you need to add some YAML front matter. YAML front matter goes at the beginning of your file and looks like
 
 {% highlight yaml %}
 ---
 layout: post
 title:  "How to add wiki pages"
-date:   2017-12-13 21:39:43 -0600
 categories: meta
 ---
 {% endhighlight %}
 
-You will need to edit the title and date as you see fit. The date follows the `YYYY-MM-DD` convention, while the time follows the `HH:MM:SS` 24-hour format. The `-0600` represents the GMT-6 (CST) timezone. 
+You will need to edit the title.
 
-Additionally, edit the categories. If your page is about how to do something related to build/design, change the line with categories to `categories: build`. If it's related to programming, change it to `categories: programming`. Do your best to keep your page within the existing categories. The categories will impact the URL of your wiki page. For example, a page with `categories: build` will have a URL of `https://team-2502.github.io/build/YYYY/MM/DD/title-of-page.html`. Similarly, a page with `categories: programming auton` will have a url of `https://team-2502.github.io/programming/auton/YYYY/MM/DD/title-of-page.html`. Use categories to sensibly *categorize* your pages.
+Additionally, edit the categories. If your programming page is about how to do something related to wpilib, change the line with categories to `categories: wpilib`. If your build page is related to design, change it to `categories: design`. Do your best to keep your page within the existing categories. The categories will impact the URL of your wiki page. Use categories to sensibly *categorize* your pages.
 
 6\. Once you're done with your page, save, commit and push to the `new-pages` branch
 
