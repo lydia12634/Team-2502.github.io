@@ -6,11 +6,17 @@ categories: programming setup
 ---
 
 # Workspace Setup
-1) Open up terminal by pressing CMD+Space and typing in `Terminal`
-2) Copy and paste `curl https://raw.githubusercontent.com/Team-2502/TeamWiki/master/workspace_setup.sh | sh`, then press `ENTER`
-![Copy-paste script](https://media.giphy.com/media/3o7aCR7ZuwxJ3tew7e/giphy.gif)
-3) Wait for script to finish. Then, close terminal
-4) You now have JetBrains Toolbox, Git Kraken, and Java 8 JDK installed.
+
+First, open up terminal by pressing `CMD+Space` (opens _Spotlight_) and typing in `Terminal`
+![Spotlight showing Terminal]({{ "/assets/spotlight_terminal.png" | absolute_url}})
+
+Next, copy and paste
+{% highlight bash %}
+curl https://raw.githubusercontent.com/Team-2502/TeamWiki/master/workspace_setup.sh | sh
+{% endhighlight %}
+and press `ENTER`. The result should look like below: ![Copy-paste script](https://media.giphy.com/media/3o7aCR7ZuwxJ3tew7e/giphy.gif)
+
+Wait for script to finish. Then, close terminal. You now have JetBrains Toolbox, Git Kraken, and Java 8 JDK installed.
 
 ## Installing IntelliJ
 Now, you will need to install IntelliJ, a powerful IDE (Integrated Development Environment) which basically means a program to write code with. IntelliJ is mainly used for Java, the main language used for the robot.
