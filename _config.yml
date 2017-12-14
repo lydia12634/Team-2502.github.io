@@ -17,8 +17,8 @@ title: Talon Robotics Wiki
 email: mail@team2502.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the Talon Robotics Wiki.
-  This site is intended to serve 
-  as a learning resource for rookies, 
+  This site is intended to serve
+  as a learning resource for rookies,
   and as a reference for veterans.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,6 +29,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  build:
+    output: true
+  programming:
+    output: true
+  wiki:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
