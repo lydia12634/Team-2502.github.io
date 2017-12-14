@@ -25,6 +25,7 @@ categories: meta
 {% endhighlight %}
 
 You will need to edit the title and date as you see fit. The date follows the `YYYY-MM-DD` convention, while the time follows the `HH:MM:SS` 24-hour format. The `-0600` represents the GMT-6 (CST) timezone. 
+
 Additionally, edit the categories. If your page is about how to do something related to build/design, change the line with categories to `categories: build`. If it's related to programming, change it to `categories: programming`. Do your best to keep your page within the existing categories. The categories will impact the URL of your wiki page. For example, a page with `categories: build` will have a URL of `https://team-2502.github.io/build/YYYY/MM/DD/title-of-page.html`. Similarly, a page with `categories: programming auton` will have a url of `https://team-2502.github.io/programming/auton/YYYY/MM/DD/title-of-page.html`. Use categories to sensibly *categorize* your pages.
 
 6\. Once you're done with your page, save, commit and push to the `new-pages` branch
