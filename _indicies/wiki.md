@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wiki Index
+title: Meta Index
 permalink: /wiki
 ---
 

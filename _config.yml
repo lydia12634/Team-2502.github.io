@@ -31,6 +31,8 @@ plugins:
   - jekyll-feed
 
 collections:
+  indexes: 
+    output: true
   build:
     output: true
   programming:
