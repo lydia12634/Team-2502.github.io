@@ -37,6 +37,8 @@ collections:
     output: true
   wiki:
     output: true
+  strategy:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
