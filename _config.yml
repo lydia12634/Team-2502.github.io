@@ -31,11 +31,15 @@ plugins:
   - jekyll-feed
 
 collections:
+  indicies: 
+    output: true
   build:
     output: true
   programming:
     output: true
   wiki:
+    output: true
+  strategy:
     output: true
 
 # Exclude from processing.
