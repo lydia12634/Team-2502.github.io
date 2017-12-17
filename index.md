@@ -11,5 +11,3 @@ Here is a list of topics covered on the wiki. Click on a topic's name to see art
 * [ {{item.title}} ]( {{item.url}} )
 
 {% endfor %}
-
-[If you want RSS for some reason]({{{{ "/feed.xml" | relative_url }}}})
