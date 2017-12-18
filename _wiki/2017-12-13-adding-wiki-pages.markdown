@@ -20,13 +20,13 @@ category: Meta
 ---
 layout: post
 title:  "How to add wiki pages"
-categories: meta
+category: Meta
 ---
 {% endhighlight %}
 
 You will need to edit the title.
 
-Additionally, edit the categories. If your programming page is about how to do something related to wpilib, change the line with categories to `categories: wpilib`. If your build page is related to design, change it to `categories: design`. Do your best to keep your page within the existing categories. The categories will impact the URL of your wiki page. Use categories to sensibly *categorize* your pages.
+Additionally, edit the category. If your programming page is about how to do something related to WPILib, change the line with categories to `category: WPILib`. If your build page is related to design, change it to `category: Design`. Do your best to keep your page within the existing categories. The category will let the index automatically sort your wiki page. Use the category field to sensibly *categorize* your pages.
 
 6\. Once you're done with your page, save, commit and push to the `new-pages` branch
 
