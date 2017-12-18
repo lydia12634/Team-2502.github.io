@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homebrew
-categories: advanced
+category: Advanced
 ---
 # What Is Homebrew?
 Homebrew is

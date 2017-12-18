@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NavX
-categories: wpilib
+category: WPILib
 ---
 # NavX
 

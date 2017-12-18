@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building and Deploying Code
-categories: deploy
+category: Deploy
 ---
 # Building Code
 

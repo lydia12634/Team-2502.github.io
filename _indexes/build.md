@@ -6,6 +6,14 @@ permalink: /build
 
 These are all the wiki pages related to the fabrication and design of the robot, more colloquially known as "build stuff".
 
-{% for item in site.build %}
-  * [{{ item.title }}]({{ item.url }})
-{% endfor %}
+{% assign groups = site.build | group_by: "category" | sort: "name" %}
+{% for group in groups %}
+{% if group.name != "" %}
+#### {{ group.name}}
+{% else %}
+#### General
+{%endif%}
+{% for item in group.items %}
+[{{ item.title }}]({{ item.url }})
+{%endfor%}
+{%endfor%}

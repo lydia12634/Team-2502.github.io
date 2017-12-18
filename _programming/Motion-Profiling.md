@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motion Profiling
-categories:
+category:
 ---
 # This wiki page is a work in progress
 

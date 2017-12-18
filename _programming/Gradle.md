@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gradle
-categories: deploy
+category: Deploy
 ---
 # Gradle
 [Gradle](http://gradle.org/) is a build assistant which has the ability to streamline the build process by running multiple tasks on build (e.g. Compiling the Code, Creating JavaDoc, Pushing Jars to Download Page. All in one command) as well as interfacing with maven to easily download dependencies.

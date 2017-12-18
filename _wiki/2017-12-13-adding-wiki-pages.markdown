@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to add wiki pages"
-categories: meta
+category: Meta
 ---
 
 1. Make a GitHub account. If you are on the programming team, you should already have one.

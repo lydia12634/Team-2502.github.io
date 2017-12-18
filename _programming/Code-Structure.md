@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Structure
-categories:
+category:
 ---
 # Subsystems
 

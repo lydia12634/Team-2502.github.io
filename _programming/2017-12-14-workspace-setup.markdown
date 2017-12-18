@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initial Workspace Setup"
-categories: setup
+category: Setup
 ---
 
 # Workspace Setup

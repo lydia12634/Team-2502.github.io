@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Making a JavaDoc for Your Special Code
-categories:
+category:
 ---
-We are the programming **team**. We are called a team for a reason -- we must work together to program the robot. As such, different people take on different tasks, such as creating automatic shifting, making an autonomous, making the shooter subsystem, etc. 
+We are the programming **team**. We are called a team for a reason -- we must work together to program the robot. As such, different people take on different tasks, such as creating automatic shifting, making an autonomous, making the shooter subsystem, etc.
 
 In the event that another person must use your subsystem, command, or whatever else you have created, they must understand how it works. Normally, they would ask you how your thing works. However, it is inconvenient and time-consuming to interact with another person.
 

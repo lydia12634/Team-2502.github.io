@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SmartDashboard
-categories: wpilib
+category: WPILib
 ---
 # SmartDashboard
 

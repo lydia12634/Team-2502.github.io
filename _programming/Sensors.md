@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Sensors
-categories: wpilib
+category: WPILib
 ---
 # Sensors

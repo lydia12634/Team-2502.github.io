@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motors and Pneumatics
-categories: wpilib
+category: WPILib
 ---
 # Talons
 First, import `com.ctre.CANTalon`

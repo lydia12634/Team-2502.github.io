@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Controlling the Robot
-categories: wpilib
+category: WPILib
 ---
 # Joysticks
 

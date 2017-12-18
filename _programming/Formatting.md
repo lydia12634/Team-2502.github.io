@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Formatting
-categories:
+category:
 ---
 # Formatting
 Formatting is an important thing to do to keep all code organized. The following formatting is what will be used for this year's robot.  

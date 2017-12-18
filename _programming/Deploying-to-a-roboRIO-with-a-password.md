@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploying to a roboRIO with a password
-categories: deploy
+category: Deploy
 ---
 A password has been set on the RoboRIO. This makes it so that, with the default build configuration, it is impossible to deploy. However, this is an easy problem to fix for the time being.
 

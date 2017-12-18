@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Commands and Subsystems
-categories: wpilib
+category: WPILib
 ---
 # Commands
 [`Commands`](http://first.wpi.edu/FRC/roborio/release/docs/java/) are used to control the robot. They activate [`Subsystems`](#Subsystems) when they get the proper input. The [`requires`](http://first.wpi.edu/FRC/roborio/release/docs/java/edu/wpi/first/wpilibj/command/Command.html#requires-edu.wpi.first.wpilibj.command.Subsystem-) method makes sure that a subsystem is only accessed by 1 command at a time.

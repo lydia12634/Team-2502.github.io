@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Instructions
-categories:
+category:
 ---
 # Branching
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Room Microwave
-categories: meme
+category: meme
 ---
 # What is a Microwave
 
