@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Shooters"
-category: BuildBois
+title:  "Introduction to Shooters"
+category: Shooters
 ---
 This is where we talk about **acceptable** shooters. If you create a non acceptable shooter, you should find a door and go thorugh it, becasue we will still kick you off the team, so save the embarassment of getting picked on infront of the team.
 
