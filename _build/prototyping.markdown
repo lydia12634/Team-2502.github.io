@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prototyping"
-category: BuildBois
+category: Getting Started:
 ---
 
 # Prototyping
