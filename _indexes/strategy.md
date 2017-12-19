@@ -11,7 +11,10 @@ These are all the wiki pages related to design strategy.
 {% if group.name != "" %}
 #### {{ group.name}}
 {% else %}
+{% if group.items %}
 #### General
+{%endif%}
+{% else %}
 {%endif%}
 {% for item in group.items %}
 [{{ item.title }}]({{ item.url }})
