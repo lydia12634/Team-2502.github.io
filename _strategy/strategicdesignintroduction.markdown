@@ -3,4 +3,4 @@ layout: post
 title:  "Introduction to Strategic Design"
 category: Strategic Design:
 ---
-Oh, Herro Dere! This is probably the most important part in designing a robot for FIRST robotics. Considering since this was previously outlawed by the really dum people on this team, some people don't know about it, but now a days nobody even knows that was outlawed. Sad bois. People who think they know what they are doing but actually can't build for crap normally do not understand design strategy. So that's why this is important.
+This is probably the most important part in designing a robot for FIRST robotics. Strategy is where we decide what parts of the game we want to complete. It is how we decide our approach to the game. Our strategy will also determine how we approach build. Strategy also can include what we are doing in each match. It is important so our robot can score the most possible points in every match.
