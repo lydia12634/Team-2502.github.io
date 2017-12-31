@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Withing Your Limits"
-category: Strategic Design:
+category: "Strategic Design"
 ---
 This is essentially the foundation of a lot of decisions in strategic design. Despite a lot of this being simple, these pages should not be undermined. Unless you like mining underneath the ground.
 # Robot units
