@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Formatting
-category:
+categories: Meta
 ---
 # Formatting
 Formatting is an important thing to do to keep all code organized. The following formatting is what will be used for this year's robot.  
@@ -14,12 +14,38 @@ Examples:
 * `camelCase`: `helloWorld`
 * `camel_case`: `hello_world`
 
-`public fields`, `private fields` (`member variables`), `method variables` (`method parameters`), `static variables` (class variable) and `final variables` (**not static final variables**) should use `camelCase`.  
+The following should use `camelCase`
+
+* `public fields`
+
+* `private fields` (`member variables`)
+
+* `method variables` (`method parameters`)
+
+* `static variables` (class variable)
+
+* `final variables` (**not static final variables**)
+  
 `static final` variables should use `CAMEL_CASE`.  
 
 Classes should use `CamelCase`.  
-Command classes (classes that extend `edu.wpi.first.wpilibj.command.Command`) should have their name suffixed with `Command`, command groups (classes that extend `edu.wpi.first.wpilibj.command.CommandGroup`) should have their name suffixed with `CommandG`.  
+Command classes (classes that extend `edu.wpi.first.wpilibj.command.Command`) should have their name suffixed with `Command`, while  command groups (classes that extend `edu.wpi.first.wpilibj.command.CommandGroup`) should have their name suffixed with `CommandG`.  
 Subsystem Classes (classes that extend `edu.wpi.first.wpilibj.command.Subsystem`) should have their name suffixed with `Subsystem`.  
+
+Additionally, all `private fields` should begin with an underscore 
+
+## Misc. Conventions
+
+* All instance variables of a `Command` subclass must be `private`
+
+* All Talons, Solenoids, and similar variables in a Subsystem subclass must be `final` and `private`
+
+    * Hence, it is necessary to have a method in the subsystem for running the motor. For an example, see `DriveTrainSubsystem::runMotors`.
+
+* `RobotMap` is solely for Button/Talon/Solenoid ID's. Put other constants in `Constants`.
+
+* `QuickCommand` and other lambda-based `Command` subclasses are for the sole purpose of making something work in a pinch. For long-term solutions, make a new `Command` subclass. 
+
 
 ## Spacing
 There should not be a space between a call and the opening parentheses (e.g. `a()`, `if()`, `else if()`, `switch()`, etc).  
@@ -75,9 +101,6 @@ If a method overrides a super method, annotate it with `@Override`.
 In general we will use pre-increment and pre-decrement. e.g. `++i` and `--i` instead of `i--` and `i++`, there are some special cases where you want to use post-increment and post-decrement.  
 Whenever possible, ensure type safety.
 We use methods, not functions. Get the name right.
-
-__This part is now Deprecated__  
-Whenever you do not want a variable or method to return `null`, annotate it with ~~`@org.jetbrains.annotations.NotNull`~~ `@javax.annotation.Nonnull` from `com.google.code.findbugs:jsr305`. When a variable or method can be null, you can annotate it with ~~`@org.jetbrains.annotations.Nullable`~~ `@javax.annotation.Nullable` from `com.google.code.findbugs:jsr305`.
 
 ***
 _Formatting standards are subject to change_

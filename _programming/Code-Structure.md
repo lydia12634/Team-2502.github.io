@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Structure
-category:
+categories: Meta
 ---
 # Subsystems
 
@@ -19,3 +19,5 @@ Follow the existing format in `OI.java` in `com.team2502.<year>`
 2. Your Joystick should be one of the Joystick instances in `OI.java`
 
 # Autonomous
+
+There will be a package for autonomous "ingredients" and autonomous "recipies". In general, "ingredients" extend `Command`, while "recipes" extend `CommandGroup`.
