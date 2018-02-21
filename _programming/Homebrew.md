@@ -44,4 +44,6 @@ cd to the location of the script `cd $HOME/Downloads`
 
 ### Homebrew is now installed
 
-[Original Source](https://superuser.com/a/881681/630696)
+[Original Source](https://gist.github.com/MDW01/ce080fa5275d646de35156ab16497de0)
+
+[Original Source Manual](https://superuser.com/a/881681/630696)
